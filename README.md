@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amiablekedro
-- 👀 I’m interested in javascript and dart
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter projects
+- 👀 I’m interested in javascript and React
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on React projects
 
 
 <!---
